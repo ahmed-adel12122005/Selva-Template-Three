@@ -423,6 +423,7 @@ header .container .other-links:hover {
     position: relative;
     animation: upDown 3s infinite ease-in-out;
     border-radius: 25%;
+    margin-top: 50px;
 }
 
 @media(max-width:991px) {
